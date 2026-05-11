@@ -7,6 +7,8 @@ langchain-core
 streamlit
 python-dotenv
 langchain_groq
-langchain-openai
+langchain_openai
 arxiv
 wikipedia
+
+langchain_ollama
